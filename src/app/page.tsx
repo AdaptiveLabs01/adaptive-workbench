@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-black text-white">
-      <h1 className="text-4xl font-bold">
-        Adaptive Workbench
-      </h1>
+     // src/app/page.tsx
+<h1>Adaptive Workbench 🚀</h1>
+
     </main>
   );
 }
